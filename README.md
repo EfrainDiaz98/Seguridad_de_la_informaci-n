@@ -16,7 +16,7 @@ Este repositorio documenta el desarrollo completo del \*\*Primer Taller de Segur
 
 
 
-\## 🔍 Verificación de herramientas
+\##  Verificación de herramientas
 
 
 
@@ -32,7 +32,7 @@ Antes de iniciar, se verificó que todas las herramientas estuvieran instaladas 
 
 
 
-\## 🖥️ Punto 1: Escaneo con Nmap
+\##  Punto 1: Escaneo con Nmap
 
 
 
@@ -110,7 +110,7 @@ Se levantó un servidor con `python3 -m http.server 8080` y se aplicaron scripts
 
 
 
-\## 🛡️ Punto 2: Auditoría con Lynis
+\## Punto 2: Auditoría con Lynis
 
 
 
@@ -150,7 +150,7 @@ Se detectaron configuraciones débiles en SSH, banners, cron, y módulos de segu
 
 
 
-\## 🦠 Punto 3: Detección de malware
+\## Punto 3: Detección de malware
 
 
 
@@ -194,7 +194,7 @@ Se actualizó la base de datos con `sudo freshclam` y se intentó escanear `/hom
 
 
 
-\## 🧠 Análisis de configuración y servicios
+\##  Análisis de configuración y servicios
 
 
 
@@ -228,7 +228,7 @@ Se revisaron configuraciones de Apache, SSH, SNMP, PHP, logging, servicios inseg
 
 
 
-\## ✅ Conclusión
+\##  Conclusión
 
 
 
