@@ -1,4 +1,4 @@
-# Seguridad de la Información
+# Seguridad de la información
 ## Taller 1
 
 # Taller de Seguridad de la Información
@@ -59,9 +59,9 @@ Se levantó un servidor con `python3 -m http.server 8080` y se aplicaron scripts
 Se ejecutó `sudo lynis audit system` para evaluar la seguridad local. Se analizaron advertencias, sugerencias y el índice de endurecimiento.
 
 ### Resultados generales
-- **Hardening Index:** 62
-- **Tests realizados:** 268
-- **Plugins activos:** 1
+- Hardening Index: 62
+- Tests realizados: 268
+- Plugins activos: 1
 
 ![Resumen Lynis](Imagenes/lynis_resumen.png)
 
@@ -105,7 +105,7 @@ Se revisaron configuraciones de Apache, SSH, SNMP, PHP, logging, servicios inseg
 ![Logging y servicios](Imagenes/logging_servicios.png)
 ![Servicios inseguros](Imagenes/servicios_inseguros.png)
 ![Tareas y criptografía](Imagenes/tareas_criptografia.png)
-![Frameworks de seguridad](Imagenes/frameworks_seguridad.png)
+![Frameworks de seguridad](Imagenes/frameworks_security.png)
 ![Integridad y malware](Imagenes/integridad_malware.png)
 ![Permisos y cron](Imagenes/permisos_cron.png)
 ![Bastionado kernel](Imagenes/bastionado_kernel.png)
@@ -116,7 +116,6 @@ Se revisaron configuraciones de Apache, SSH, SNMP, PHP, logging, servicios inseg
 ## Conclusión
 
 Este taller permitió aplicar técnicas reales de escaneo, auditoría y detección de amenazas en un entorno Kali Linux. La documentación detallada, junto con las evidencias visuales, demuestra el dominio de herramientas clave en seguridad informática y fortalece la capacidad de análisis crítico ante configuraciones inseguras.
-
 
 
 
