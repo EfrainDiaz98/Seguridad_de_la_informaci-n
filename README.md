@@ -22,12 +22,15 @@ Antes de iniciar, se verificó que todas las herramientas estuvieran instaladas 
 Se identificaron múltiples IPs activas y direcciones MAC, reconociendo fabricantes como Aruba, HP y Dell.
 
 ![Hosts activos](Imagenes/primer_punto_A.png)
+
 ![Hosts activos](Imagenes/Respuesta_primer_punto_A.png)
 
 ### b) Escaneo de puertos y servicios
 Con `nmap -sV 127.0.0.1` se detectaron puertos abiertos y servicios activos.
 
-![Puertos y servicios](Imagenes/Respuesta_Tercer_punto_C_2.png)
+![Puertos y servicios](Imagenes/primer_punto_B.png)
+
+![Puertos y servicios](Imagenes/Respuesta_primer_punto_B.png)
 
 ### c) Scripts NSE para vulnerabilidades
 Se aplicó `nmap --script vuln 127.0.0.1` para detectar vulnerabilidades comunes.
