@@ -21,7 +21,8 @@ Antes de iniciar, se verificó que todas las herramientas estuvieran instaladas 
 ### a) Descubrimiento de hosts activos
 Se identificaron múltiples IPs activas y direcciones MAC, reconociendo fabricantes como Aruba, HP y Dell.
 
-![Hosts activos](Imagenes/Respuesta_Tercer_punto_C_1.png)
+![Hosts activos](Imagenes/primer_punto_A.png)
+![Hosts activos](Imagenes/Respuesta_primer_punto_A.png)
 
 ### b) Escaneo de puertos y servicios
 Con `nmap -sV 127.0.0.1` se detectaron puertos abiertos y servicios activos.
