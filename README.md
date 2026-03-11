@@ -12,6 +12,7 @@ Este repositorio documenta el desarrollo completo del **Primer Taller de Segurid
 Antes de iniciar, se verificó que todas las herramientas estuvieran instaladas correctamente. En Kali Linux vienen preinstaladas, pero se validó su presencia en el sistema.
 
 ![Verificación de herramientas](Imagenes/Verificación.png)
+[Verificación de herramientas](Imagenes/Respuesta_Verificación.png)
 
 ---
 
